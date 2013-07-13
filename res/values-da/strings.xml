@@ -7,12 +7,12 @@
     <string name="stop">Stop</string>
     <string name="add">Fastgør</string>
     <string name="choose_app">Fastgør applikation</string>
-    <string name="icon_picker_type">Vælg ikon type:</string>
+    <string name="icon_picker_type">Vælg ikontype:</string>
     <string name="icon_default">Standard</string>
-    <string name="icon_custom">Custom</string>
+    <string name="icon_custom">Tilpasset</string>
     <string name="unknown">Ukendt</string>
        
-  <string name="stop_to_remove">Stop venligst denne service før du fjerner en applikation fra listen </string>
+  <string name="stop_to_remove">Stop venligst denne service, før du fjerner en applikation fra listen</string>
     
     <string name="ext_note1">Note 1</string>
     <string name="ext_note2">Note 2</string>
